@@ -1,7 +1,7 @@
 {
-  "name": "a-house-a-mouse",
+  "name": "Prototyper",
   "version": "1.0.0",
-  "description": "Exploratory digital project.",
+  "description": "A way for me to be lazy.",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
